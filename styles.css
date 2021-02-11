@@ -1,0 +1,20 @@
+body {
+  background-color: #ddd;
+  color: #222;
+  font-size: 16px;
+}
+ul {
+  list-style-type: circle;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.2em;
+}
+h1, h2, h3 {
+  text-decoration: underline;
+}
